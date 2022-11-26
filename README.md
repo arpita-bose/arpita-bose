@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Namaste 🙏🏽, I’m Arpita @sunflower-sunflower 🌻<br>🌎 I am from India.<br>👩🏼‍🎓 I am pursuing B.Tech in Computer Science & Engineering.<br>👀 I’m interested in the field of data, especially drawing insights from them 📊<br>🌱 I’m currently learning processes of analyzing data 🔎
+👋 Namaste 🙏🏽, I’m Arpita @arpita-bose 🌻<br>🌎 I am from India.<br>👩🏼‍🎓 I am pursuing B.Tech in Computer Science & Engineering.<br>👀 I’m interested in the field of data, especially drawing insights from them 📊<br>🌱 I’m currently learning processes of analyzing data 🔎
 
 
 ## 🌐 Socials:
